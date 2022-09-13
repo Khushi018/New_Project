@@ -1,5 +1,5 @@
 let reg_email = "Khushigupta.of@gmail.com"
-let reg_pass = "Khushigupta018"
+let reg_pass = "KuchBhi"
 
 let entered_email = "khushigupta.of@gmail.com"
 let eneterd_pass = "khushi"

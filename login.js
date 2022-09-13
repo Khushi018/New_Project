@@ -7,5 +7,5 @@ let eneterd_pass = "khushi"
 if(reg_email==entered_email && reg_pass===entered_pass){
      console.log("Login successful");
 }else{
-    console.log("Something Wrong");
+    console.log("Try Again");
 }
